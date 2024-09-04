@@ -1,0 +1,11 @@
+body {
+	width: 40%;
+	margin: auto;
+	text-align: center;
+}
+
+#people {
+	background-color: #c0bfbf;
+	border: 1px solid #0000;
+	margin-bottom: 1rem;
+}

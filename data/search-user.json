@@ -1,0 +1,29 @@
+[
+    {
+        "firstname": "Paulette",
+        "lastname": "Francis",
+        "address": {
+            "details_add": "6 rue Saint Denis",
+            "city": "Montreuil",
+            "zip_code": 93100
+        }
+    },
+    {
+        "firstname": "Luc",
+        "lastname": "Cherbourg",
+        "address": {
+            "details_add": "18 avenue Jean Jaurès",
+            "city": "Paris",
+            "zip_code": 75007
+        }
+    },
+    {
+        "firstname": "Paulo",
+        "lastname": "Byzantin",
+        "address": {
+            "details_add": "187 rue Bignoul",
+            "city": "Toulon",
+            "zip_code": 83200
+        }
+    }
+]
